@@ -1,4 +1,5 @@
 # XLLib
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Shinsoft/XLLib.svg?style=flat)](https://travis-ci.org/Shinsoft/XLLib)
 [![Version](https://img.shields.io/cocoapods/v/XLLib.svg?style=flat)](http://cocoapods.org/pods/XLLib)
@@ -27,3 +28,6 @@ Shinsoft, shinsoft@126.com
 ## License
 
 XLLib is available under the MIT license. See the LICENSE file for more info.
+=======
+Test Cocoapods
+>>>>>>> 8c661e188d381d4bc6deec3ad2e959aad4db9ba5
