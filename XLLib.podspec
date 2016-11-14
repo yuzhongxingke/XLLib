@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'XLLib'
   s.version          = '0.1.1'
-  s.summary          = 'A short description of XLLib.'
+  s.summary          = '测试通过 pod 创建、提交静态库.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -22,7 +22,7 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/yuzhongxingke/XLLib'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  # s.screenshots     = 'http://himg2.huanqiu.com/attachment2010/2012/0627/20120627094020247.jpg', 'http://himg2.huanqiu.com/attachment2010/2012/0627/20120627094018797.jpg'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Shinsoft' => 'shinsoft@126.com' }
   s.source           = { :git => 'https://github.com/yuzhongxingke/XLLib.git', :tag => s.version.to_s }
