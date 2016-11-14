@@ -11,7 +11,7 @@
 @implementation XLTest
 
 - (void)test{
-    NSLog(@"--------------------:Test___2");
+    NSLog(@"--------------------:Test___3");
 }
 
 @end

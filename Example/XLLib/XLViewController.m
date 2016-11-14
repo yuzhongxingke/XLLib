@@ -20,7 +20,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    NSLog(@"xxxxxxxxxxxxx");
+    NSLog(@"xxxxxxxxxxxxx_YYYYYYYYYYY");
     
     XLTest *xlTest = [[XLTest alloc] init];
     [xlTest test];
