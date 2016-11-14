@@ -1,11 +1,11 @@
 PODS:
-  - FBSnapshotTestCase (2.1.2):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.2)
-  - FBSnapshotTestCase/Core (2.1.2)
-  - FBSnapshotTestCase/SwiftSupport (2.1.2):
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Kiwi (2.4.0)
-  - XLLib (0.1.0)
+  - XLLib (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -17,10 +17,10 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  FBSnapshotTestCase: 918c55861356ee83aee7843d759f55a18ff6982b
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
-  XLLib: 17316e1df85568e1f0c5d08cebaeccc62c345d4f
+  XLLib: 560a755d16470a8b7218f0f0b6df49ecaed0a1e5
 
 PODFILE CHECKSUM: 5cbd77c9271aa16e7cfe1acb529da7653aed7c39
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.2.0.beta.1
