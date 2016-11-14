@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XLLib'
-  s.version          = '0.1.1'
+  s.version          = '0.1.4'
   s.summary          = '测试通过 pod 创建、提交静态库.'
 
 # This description is used to generate tags and improve search results.
